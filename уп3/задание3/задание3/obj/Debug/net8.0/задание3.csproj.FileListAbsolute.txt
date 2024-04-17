@@ -1,0 +1,14 @@
+C:\Users\savva\RiderProjects\задание3\задание3\bin\Debug\net8.0\задание3.exe
+C:\Users\savva\RiderProjects\задание3\задание3\bin\Debug\net8.0\задание3.deps.json
+C:\Users\savva\RiderProjects\задание3\задание3\bin\Debug\net8.0\задание3.runtimeconfig.json
+C:\Users\savva\RiderProjects\задание3\задание3\bin\Debug\net8.0\задание3.dll
+C:\Users\savva\RiderProjects\задание3\задание3\bin\Debug\net8.0\задание3.pdb
+C:\Users\savva\RiderProjects\задание3\задание3\obj\Debug\net8.0\задание3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savva\RiderProjects\задание3\задание3\obj\Debug\net8.0\задание3.AssemblyInfoInputs.cache
+C:\Users\savva\RiderProjects\задание3\задание3\obj\Debug\net8.0\задание3.AssemblyInfo.cs
+C:\Users\savva\RiderProjects\задание3\задание3\obj\Debug\net8.0\задание3.csproj.CoreCompileInputs.cache
+C:\Users\savva\RiderProjects\задание3\задание3\obj\Debug\net8.0\задание3.dll
+C:\Users\savva\RiderProjects\задание3\задание3\obj\Debug\net8.0\refint\задание3.dll
+C:\Users\savva\RiderProjects\задание3\задание3\obj\Debug\net8.0\задание3.pdb
+C:\Users\savva\RiderProjects\задание3\задание3\obj\Debug\net8.0\задание3.genruntimeconfig.cache
+C:\Users\savva\RiderProjects\задание3\задание3\obj\Debug\net8.0\ref\задание3.dll
