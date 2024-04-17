@@ -1,0 +1,14 @@
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп4\РимскиеЧисла\РимскиеЧисла\bin\Debug\net8.0\РимскиеЧисла.exe
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп4\РимскиеЧисла\РимскиеЧисла\bin\Debug\net8.0\РимскиеЧисла.deps.json
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп4\РимскиеЧисла\РимскиеЧисла\bin\Debug\net8.0\РимскиеЧисла.runtimeconfig.json
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп4\РимскиеЧисла\РимскиеЧисла\bin\Debug\net8.0\РимскиеЧисла.dll
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп4\РимскиеЧисла\РимскиеЧисла\bin\Debug\net8.0\РимскиеЧисла.pdb
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп4\РимскиеЧисла\РимскиеЧисла\obj\Debug\net8.0\РимскиеЧисла.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп4\РимскиеЧисла\РимскиеЧисла\obj\Debug\net8.0\РимскиеЧисла.AssemblyInfoInputs.cache
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп4\РимскиеЧисла\РимскиеЧисла\obj\Debug\net8.0\РимскиеЧисла.AssemblyInfo.cs
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп4\РимскиеЧисла\РимскиеЧисла\obj\Debug\net8.0\РимскиеЧисла.csproj.CoreCompileInputs.cache
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп4\РимскиеЧисла\РимскиеЧисла\obj\Debug\net8.0\РимскиеЧисла.dll
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп4\РимскиеЧисла\РимскиеЧисла\obj\Debug\net8.0\refint\РимскиеЧисла.dll
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп4\РимскиеЧисла\РимскиеЧисла\obj\Debug\net8.0\РимскиеЧисла.pdb
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп4\РимскиеЧисла\РимскиеЧисла\obj\Debug\net8.0\РимскиеЧисла.genruntimeconfig.cache
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп4\РимскиеЧисла\РимскиеЧисла\obj\Debug\net8.0\ref\РимскиеЧисла.dll

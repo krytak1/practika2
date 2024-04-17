@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UFZBtUyVODKN0JbtoN8c2eZFEi4lXfB600cVCGcqmyE+Utw7wn/AXsM4WAb0OC11FfvR9clrEs5hMpXA1u/MCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\savva\\OneDrive\\Рабочий стол\\УчебнаяПрактика2\\уп6\\уп6\\уп6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\savva\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\savva\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\savva\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

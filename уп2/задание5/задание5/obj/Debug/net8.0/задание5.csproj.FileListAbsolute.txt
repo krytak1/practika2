@@ -1,0 +1,14 @@
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп2\задание5\задание5\bin\Debug\net8.0\задание5.exe
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп2\задание5\задание5\bin\Debug\net8.0\задание5.deps.json
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп2\задание5\задание5\bin\Debug\net8.0\задание5.runtimeconfig.json
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп2\задание5\задание5\bin\Debug\net8.0\задание5.dll
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп2\задание5\задание5\bin\Debug\net8.0\задание5.pdb
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп2\задание5\задание5\obj\Debug\net8.0\задание5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп2\задание5\задание5\obj\Debug\net8.0\задание5.AssemblyInfoInputs.cache
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп2\задание5\задание5\obj\Debug\net8.0\задание5.AssemblyInfo.cs
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп2\задание5\задание5\obj\Debug\net8.0\задание5.csproj.CoreCompileInputs.cache
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп2\задание5\задание5\obj\Debug\net8.0\задание5.dll
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп2\задание5\задание5\obj\Debug\net8.0\refint\задание5.dll
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп2\задание5\задание5\obj\Debug\net8.0\задание5.pdb
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп2\задание5\задание5\obj\Debug\net8.0\задание5.genruntimeconfig.cache
+C:\Users\savva\OneDrive\Рабочий стол\УчебнаяПрактика2\уп2\задание5\задание5\obj\Debug\net8.0\ref\задание5.dll
